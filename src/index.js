@@ -8,8 +8,6 @@ import './fonts/fontawesome-5/css/all.min.css';
 import './css/settings.css';
 import './css/style.css'
 
-
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
